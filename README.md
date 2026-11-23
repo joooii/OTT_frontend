@@ -6,6 +6,7 @@
 
 ## 목차
 
+- [💡 개발위키](#wiki)
 - [💎 프로젝트 개요](#introduction)
 - [🚀 주요 기능](#function)
 - [📹 시연 영상](#video)
@@ -13,6 +14,12 @@
 - [📦 폴더 구조](#folder)
 - [💡 HLS 기반 영상 스트리밍 구조](#hls)
 - [📌 WE ARE TEAM OF O+T](#member)
+
+<br/>
+
+## <span id="wiki">💡 개발위키</span>
+
+[✅ O+T FE 개발위키 바로가기](https://funky-brochure-236.notion.site/O-T-3307f2b9ae9280b5ad9ef4189abb7792?pvs=73)
 
 <br/>
 
